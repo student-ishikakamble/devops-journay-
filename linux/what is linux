@@ -43,3 +43,5 @@ rm -rf folder
 cat file.txt
 less file.txt
 tail -f logs.txt   # real-time logs (VERY IMPORTANT)
+hello
+hiii
